@@ -1,4 +1,4 @@
-"# US-States-Game" 
+"# US-States Names Game #" 
 
 Type the name of the States of US and you see the states pointed to the location on the map
 
